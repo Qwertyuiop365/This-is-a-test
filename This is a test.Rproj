@@ -1,13 +1,5 @@
-Version: 1.0
-
-RestoreWorkspace: Default
-SaveWorkspace: Default
-AlwaysSaveHistory: Default
-
-EnableCodeIndexing: Yes
-UseSpacesForTab: Yes
-NumSpacesForTab: 2
-Encoding: UTF-8
-
-RnwWeave: Sweave
-LaTeX: pdfLaTeX
+print(changes made)
+print("changes made")
+Print("a new round of changes")
+print("a new round of changes")
+savehistory("C:/Users/tyler/OneDrive/Desktop/R files/This is a test/This is a test.Rproj")
